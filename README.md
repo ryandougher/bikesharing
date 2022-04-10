@@ -6,6 +6,8 @@ The purpose of this project is to analyze existing bikeshare data from New York 
 
 ## Results
 
+Link to dashboard: https://public.tableau.com/app/profile/ryan.dougherty1546/viz/NYCCitibikeAnalysis_16495433673020/Story1?publish=yes
+
 This visual shows the most popular start times for the month of august, as well as the most populat starting locations. There is a peak of rides in the morning at 8am and in the afternoon at 5-6pm. The most popular start locations are also the most popular tourist spots.
 
 ![Dashboard_1](https://user-images.githubusercontent.com/96550846/162635613-cace561c-f877-40f0-819c-dd1f1abf98ff.png)
